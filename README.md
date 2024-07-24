@@ -1,3 +1,4 @@
+![logo](https://github.com/sagarsinghthakur002/sagarsinghthakur002/blob/main/Green%20Gaming%20Channel%20YouTube%20Channel%20Art%20(1).png)
 <h1 align="center">Hi 👋, I'm Sagar Singh Thakur</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
